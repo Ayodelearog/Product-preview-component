@@ -11,7 +11,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Continued development](#continued-development)
   - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 
 ### The challenge
