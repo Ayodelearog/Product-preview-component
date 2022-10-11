@@ -55,6 +55,6 @@ I would like to work on more Frontend Mentor projects using React so I can get b
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Ayodelearog)
-- Twitter - [@yourusername](https://www.twitter.com/RationalMan_)
+- Frontend Mentor - [@Ayodelearog](https://www.frontendmentor.io/profile/Ayodelearog)
+- Twitter - [@RationalMan_](https://www.twitter.com/RationalMan_)
 
